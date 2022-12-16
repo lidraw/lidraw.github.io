@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Anton';
+  src: url('./Anton/Anton-Regular.eot');
+  src: local('Anton Regular'), local('Anton-Regular'),
+      url('./Anton/Anton-Regular.eot?#iefix') format('embedded-opentype'),
+      url('./Anton/Anton-Regular.woff2') format('woff2'),
+      url('./Anton/Anton-Regular.woff') format('woff'),
+      url('./Anton/Anton-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Baloo';
+  src: url('./Baloo/baloo-cyrillic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('./OpenSans/static/OpenSans/OpenSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('./Nunito/static/Nunito-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

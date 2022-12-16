@@ -1,0 +1,10 @@
+.header__title{
+    margin: 0;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 100px;
+    text-transform: uppercase;
+    color: #FDF1E0;
+    -webkit-text-stroke: 4px #FF9900;
+}

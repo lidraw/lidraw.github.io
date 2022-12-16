@@ -1,0 +1,15 @@
+.nav__text {
+    padding: 0;
+    margin: 0 0 0 500px;
+    display: flex;
+    align-items: right;
+    font-size: 16px;
+    line-height: 24px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--white);
+    text-shadow: 1px 0 #FF9900, -1px 0 #FF9900, 0 1px #FF9900, 0 -1px #FF9900,
+    1px 1px #FF9900, -1px -1px #FF9900, 1px -1px #FF9900, -1px 1px #FF9900;
+  }
