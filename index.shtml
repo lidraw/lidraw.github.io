@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SEKAI - топ!">
+  <meta name="keywords" content="Sekai">
+  <link rel="stylesheet" href="./pages/index.css">
+  <title>Sekai</title>
+</head>
+
+<body class="page">
+  <header class="header">
+    <div class="container header__container">
+      <nav class="nav">
+        <div class="nav__container">
+          <a class="link logo" href="#">
+            <img class="logo__image" src="./images/header/logo.png">
+          </a>
+          <ul class="lists header__lists">
+            <li class="list">
+              <p><a class="link header__link" href="index.shtml">overview</a></p>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="gallery.shtml">gallery</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="story.shtml">story</a>
+            </li>
+            <li class="list">
+              <a class="link header__link" href="songs.shtml">songs</a>
+            </li>
+          </ul>
+          <p class="nav__text">ⒸSEGA</p>
+        </div>
+      </nav>
+      <div class="header__container-desc">
+        <p class="text header__text">An eccentric musical show unit</p>
+        <h1 class="title header__title">Wonderlands x Showtime</h1>
+        <a class="link header__button" href="gallery.shtml">LOOK HOW CUTE THEY ARE</a>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container main__container">
+      <section class="about">
+        <h2 class="title about__title">About this group</h2>
+        <div class="about__container">
+          <article class="sekai">
+            <h3 class="title sekai__title">The Sun & The Little Mermaid</h3>
+            <div class="text-container">
+              <p class="text sekai__text">Emu Ootori and Nene Kusanagi are both a part of a group called Wonderlands X Showtime, 
+                making them groupmates. After meeting each other, they are shown to become close friends. Emu attends Miyamasuzaka 
+                Girls Academy while Nene attends Kamiyama High School. Nene is shown to genuinely care very much for Emu, while Emu often 
+                trespasses on Kamiyama High to eat lunch with her and the other troupe members.</p>
+            </div>
+            <div class="sekai__container">
+              <img class="sekai__image" src="./images/sekai/img1.png">
+              <img class="sekai__image" src="./images/sekai/img2.png">
+            </div>
+          </article>
+          <article class="sekai">
+            <h3 class="title sekai__title">Weirdo Combo</h3>
+            <div class="text-container">
+              <p class="text sekai__text">
+                Rui and Tsukasa are second year high school students and members of the theater troupe Wonderlands x Showtime. 
+                They are a "well-known duo of weirdos" at their school due to the fact they cause ruckus around the campus daily, 
+                which most of the time is due to Rui's experiments. Tsukasa proudly takes on any stunts and roles suggested by Rui, 
+                though often complains about them regardless. </p>
+            </div>
+            <img class="sekai__image2" src="./images/sekai/img3.png">
+          </article>
+        </div>
+      </section>
+    </div>
+  </main>
+  <!--#include file="footer.shtml"-->
+</body>
+
+</html>

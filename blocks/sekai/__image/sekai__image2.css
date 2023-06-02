@@ -1,0 +1,12 @@
+.sekai__image2{
+  width: 580px;
+  height: 344px;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 1024px){
+  .sekai__image2{
+    width: auto;
+    height: 255px;
+  }
+}

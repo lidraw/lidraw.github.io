@@ -1,4 +1,21 @@
 .container{
-  width: 100vw;
-  max-width: 1200px;
+  width: 1200px;
+}
+
+@media screen and (max-width: 1024px) {
+  .container{
+    width: 900px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .container{
+    width: 660px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .container{
+    width: 400px;
+  }
 }

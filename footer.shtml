@@ -1,0 +1,7 @@
+<!--#config timefmt="%y"-->
+<footer class="footer">
+    <div class="container footer__container">
+      <p class="footer__copyright">ⒸProject SEKAI COLORFUL STAGE! feat. Hatsune Miku 2022-20<!--#echo var="DATE_LOCAl"--></p>
+      <p class="footer__author">lidraw</p>
+    </div>
+  </footer>

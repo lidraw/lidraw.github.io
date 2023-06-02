@@ -1,0 +1,35 @@
+.dialogue {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .character {
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .character-name.emu {
+    color: rgb(226, 29, 95);
+    text-shadow: 3px 0px 3px #fcdef2;
+  }
+  .character-name.tsu {
+    color: rgb(185, 70, 41);
+    text-shadow: 3px 0px 3px #fcdef2;
+  }
+  .character-name.rui {
+    color: rgb(96, 72, 161);
+    text-shadow: 3px 0px 3px #fcdef2;
+  }
+  .character-name.nene {
+    color: rgb(98, 121, 93);
+    text-shadow: 3px 0px 3px #fcdef2;
+  }
+  .character-name.robo {
+    color: rgb(53, 53, 53);
+    text-shadow: 3px 0px 3px #ececec;
+  }
+
+  .character-dialogue {
+    margin-left: 30px;
+  }
+  

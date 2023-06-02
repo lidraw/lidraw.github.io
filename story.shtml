@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SEKAI - топ!">
+  <meta name="keywords" content="Sekai">
+  <link rel="stylesheet" href="./pages/story.css">
+  <title>Story</title>
+</head>
+
+<body class="page">
+    <!--#include file="header.html"-->
+
+    <div class="story">
+        <div class = "container story__wrapper">
+            <div class="container story__container"> 
+                <a href="#message1" class="button">Emu Otori</a>
+                <a class = "brief__container message__color-gradient-pink">Emu is all happiness and innocence.
+                     She acts upon her ideas without a second thought, sometimes to the consternation 
+                     of her friends. She's searching for like-minded performers to help her bring a 
+                     deserted stage in Phoenix Wonderland back to its former glory.</a>
+                <a href="#message2" class="button">Tsukasa Tenma</a>
+                <a class = "brief__container message__color-gradient-yellow">Tsukasa has bucketloads of confidence 
+                    and loves to be the center of attention, although he easily gets carried away. A 
+                    theater show he saw as a kid impressed him so much that he made it his ultimate goal 
+                    to become the greatest star in the world. He's a supportive brother to his frail 
+                    sister, Saki.</a>
+                <a href="#message3" class="button">Rui Kamishiro</a>
+                <a class="brief__container message__color-gradient-blue">Nene's neighbor and childhood friend, 
+                    Rui is an easy-going genius. He's meticulous about making every show the best it can 
+                    be, making use of his flair for technology and inventiveness. He even builds robots 
+                    to use on stage. His somewhat unique way of thinking often gets him labeled as a weirdo.</a>
+                <a href="#message4" class="button">Nene Kusanagi</a>
+                <a class="brief__container message__color-gradient-green">Nene joined the group at 
+                    Rui's recommendation. She's sharp-tongued, but honey-voiced, with the singing 
+                    ability of a budding musical star. For some reason, she refuses to show herself 
+                    to Tsukasa and Emu, deploying Robo-Nene to perform shows in her place.</a>
+            </div>
+            <div class="message__container">
+                <div id="message1" class="message fade-animation message__color-gradient-pink"> 
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">Won...won... Wonderhoy☆</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">I'm Emu Otori from Wonderlands×Showtime!</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">Hehehe. Emu's such a cute and interesting name, don't you think?</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">Emu means to smile, and I was given this name so that I could always have a smile on my face.</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">But that's not all! My name also means that anyone who hears it will smile as well because it's so interesting.</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">Well? Well? Are you smiling, yet? That'd make me really happy!</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">Let's all strike the wonderhoy pose together now♪</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">All together now! One, two, wonderhoy☆</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">Hehe, I can't wait to actually do this with the audience♪</span><br>
+                    <span class="character-name emu">Emu Otori:</span><br>
+                    <span class=" dialog character-dialogue">I wonder how many people will come to see us? As many as the time when grandpa was still doing shows?</span><br>
+                    <a href="#" class="close">Close</a>
+                    <div class="image-container">
+                        <img src="/images/gallery/emu_sticker.png" alt="emu">
+                    </div>
+                </div>
+                <div id="message2" class="message fade-animation message__color-gradient-yellow"> 
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">Greetings, one and all! Thank you for coming to the Wonderlands×Showtime stage show today.</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">It is indeed a miracle, nay, a great fortune that brought us together here today, a fact that pleases me!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">By your leave, I shall now introduce myself.</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">I am the Troupe Leader of Wonderlands×Showtime!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">Tsukasa, written as ruler of the world! Tenma, written as soaring pegasus!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">The grandest name, Tsukasa Tenma!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">The dazzling future star, Tsukasa Tenma!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">Fairytales, swords and sorcery, science fiction... Each show we present will take you on an epic adventure through an entirely different world!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">It'll be magical! Fantastical! All you have to do is sit back and enjoy the show!</span><br>
+                    <span class="character-name tsu">Tsukasa Tenma:</span><br>
+                    <span class=" dialog character-dialogue">Mwa ha ha ha! That was perfect!</span><br>
+                    
+                    <a href="#" class="close">Close</a>
+                    <div class="image-container">
+                        <img src="/images/gallery/tsu_sticker.png" alt="tsu">
+                    </div>
+                </div>
+                <div id="message3" class="message fade-animation message__color-gradient-blue">
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">Hello, everyone, and welcome to the Wonder Stage.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">I am Rui Kamishiro, stage director and performer of Wonderlands×Showtime.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">It's a pleasure to make your acquaintance. Hehe.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">Before you even realize it, you'll find yourself already drawn into the wonderful world of Wonderlands×Showtime!</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">Hehe. As for which world you'll eventually end up in, that's for you to find out by the end of the show.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">Tsukasa. What do you think of flying into the air and blowing up?</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">I see... Flying is negotiable, but blowing up is a no-go.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">That's perfectly fine, though. I wanted you to fly to begin with, anyway.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">But it won't have that much of an impact if it's just Tsukasa by himself.</span><br>
+                    <span class="character-name rui">Rui Kamishiro:</span><br>
+                    <span class=" dialog character-dialogue">I know. Why don't we make Robo-Nene fly too? If I install jet engines on her feet...</span><br>
+                    <a href="#" class="close">Close</a>
+                    <div class="image-container">
+                        <img src="/images/gallery/rui_sticker.png" alt="rui">
+                    </div>
+                </div>
+                <div id="message4" class="message fade-animation message__color-gradient-green"> 
+                    <span class="character-name robo">Robo-Nene:</span><br>
+                    <span class=" dialog character-dialogue">Welcome to the show, everyone. Today, we will be...</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">I was about to start. What is it?</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">Hmph. Why can't Robo-Nene do this with me?</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">It shouldn't matter. I do the show with Robo-Nene anyway...</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">Sigh... Okay. Here I go again.</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">Thank you for coming to the Wonderlands×Showtime stage show today.</span><br>
+                    <span class="character-name robo">Robo-Nene:</span><br>
+                    <span class=" dialog character-dialogue">Nene Kusanagi and Robo-Nene from Wonderlands×Showtime here.</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">You may be surprised to see Robo-Nene here. She's a robot that can sing and dance. As for how... You'll see for yourself in the show later.</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">I used to be in a children's theater company. I'm pretty confident in my singing ability, as long as I do it right...</span><br>
+                    <span class="character-name nene">Nene Kusanagi:</span><br>
+                    <span class=" dialog character-dialogue">So, um... I think you'll find our show to be quite enjoyable, so...</span><br>
+                    <span class="character-name robo">Robo-Nene:</span><br>
+                    <span class=" dialog character-dialogue">Please stay with us until the end.</span><br>
+                    <a href="#" class="close">Close</a>
+                    <div class="image-container">
+                        <img src="/images/gallery/nene_sticker.png" alt="nene">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+              
+
+  <!--#include file="footer.shtml"-->
+</body>
+
+</html>

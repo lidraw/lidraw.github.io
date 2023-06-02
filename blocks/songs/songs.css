@@ -1,0 +1,7 @@
+.songs {
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(to bottom, #716ab6, #9e9ac2 , #FFFFFF);
+  }
+
+  

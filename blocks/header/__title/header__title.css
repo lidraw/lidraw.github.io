@@ -8,3 +8,9 @@
     color: #FDF1E0;
     -webkit-text-stroke: 4px #FF9900;
 }
+
+@media screen and (max-width: 480px){
+    .header__title{
+        font-size: 52px;
+    }
+}

@@ -1,0 +1,15 @@
+.song__info-wrapper{
+    display: flex;
+    flex-grow: 1;
+    border: 2px solid #da99a4;
+    border-radius: 0 18px 18px 0;
+    height: 120px;
+}
+
+@media screen and (max-width: 1024px) {
+    .song__info-wrapper{
+        border: 2px solid #da99a4;
+        border-radius: 0 0 18px 18px;
+        border-top: none;
+    }
+}

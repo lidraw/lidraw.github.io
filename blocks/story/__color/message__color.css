@@ -1,0 +1,15 @@
+.message__color-gradient-pink {
+  background: linear-gradient(180deg, #f8d6e2, #feeaf4);
+}
+
+.message__color-gradient-green {
+  background: linear-gradient(180deg, #c7b8e1, #c6eedd);
+}
+
+.message__color-gradient-blue {
+  background: linear-gradient(180deg, #8798d7, #a9d6ef);
+}
+
+.message__color-gradient-yellow {
+  background: linear-gradient(180deg, #fde6b0, #fccf9e);
+}

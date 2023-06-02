@@ -1,0 +1,73 @@
+
+.song {
+    display: flex;
+    margin-bottom: 20px;
+    background: linear-gradient(to right, #da99a4, white);
+    border-radius: 15px 0 0 15px;
+    border: 2px solid #da99a4;
+    border-right: none;
+    padding: 10px;
+}
+
+  @media screen and (max-width: 1024px) {
+    .song{
+      border-radius: 15px 15px 0 0;
+      border: 2px solid #da99a4;
+    }
+  }
+  
+  .song-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-left: 5px;
+  }
+  
+  .song-details {
+    display: flex;
+    flex-direction: column;
+    width: 150px;
+  }
+  
+  .song-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color: #333;
+  }
+  
+  .song-artist {
+    font-size: 14px;
+    color: #666;
+  }
+  
+  .song-extra {
+    font-size: 16px;
+    font-weight: bold;
+    color: #303030;
+    margin-top: 10px;
+    margin-left: 50px;
+    width: 400px;
+    text-align: right;
+  }
+
+  .song-info {
+    width: 220px;
+    text-align: left;
+    padding-left: 20px;
+  }
+  
+  .song-info h2 {
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+  }  
+
+  .song-info p {
+    margin: 10px;
+    font-size: 16px;
+    color: #999;
+  }

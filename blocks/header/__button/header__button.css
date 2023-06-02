@@ -22,3 +22,9 @@
     color: var(--white);
     background-color: #FF9900;
 }
+
+@media screen and (max-width: 480px) {
+    .header__button{
+        margin-top: 120px;
+    }
+}

@@ -1,0 +1,18 @@
+.gallery__container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1600px;
+}
+
+@media screen and (max-width:1024px) {
+    .gallery__container{
+        width: 900px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .gallery__container{
+        width: 400px;
+    }
+}

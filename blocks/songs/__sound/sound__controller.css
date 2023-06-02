@@ -1,0 +1,28 @@
+audio {
+    width: 100%;
+    margin-top: 10px;
+  }
+  
+  audio::-webkit-media-controls-panel {
+    background-color: #da99a4;
+    color: #333;
+    border-radius: 5px;
+  }
+  
+  audio::-webkit-media-controls-play-button,
+  audio::-webkit-media-controls-pause-button {
+    background-color: #a55e73;
+    color: #fff;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+  }
+  
+  audio::-webkit-media-controls-time-remaining-display {
+    color: #333;
+  }
+  
+  audio::-webkit-media-controls-current-time-display {
+    color: #333;
+  }
+  

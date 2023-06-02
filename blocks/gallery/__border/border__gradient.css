@@ -1,0 +1,20 @@
+.border-gradient{
+  border: 4px solid;
+  border-image-slice: 1;
+}
+
+.border-gradient-pink {
+  border-image-source: linear-gradient(to left, #c04268, #ce5ea5);
+}
+
+.border-gradient-green {
+  border-image-source: linear-gradient(to left, #6a4c9b, #67c28d);
+}
+
+.border-gradient-blue {
+  border-image-source: linear-gradient(to left, #233481, #3583c4);
+}
+
+.border-gradient-yellow {
+  border-image-source: linear-gradient(to left, #f7a935, #cf5a0c);
+}

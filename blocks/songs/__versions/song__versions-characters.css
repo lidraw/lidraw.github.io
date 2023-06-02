@@ -1,0 +1,33 @@
+.song__versions-characters{
+    background: linear-gradient(to left, #da99a4, white);
+    border-radius: 0 15px 15px 0;
+    flex-grow: 1;
+}
+
+@media screen and (max-width:1024px){
+    .song__versions-characters{
+        border-radius: 0 0 15px 0;
+    }
+}
+
+.song__versions-characters img{
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+}
+
+.pick{
+    display: none;
+}
+
+.hidden{
+    display: none;
+}
+
+
+.pick:target {
+    display: block;
+    transform: translateY(0);
+  }
+
+

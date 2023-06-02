@@ -44,12 +44,13 @@
 @import '../blocks/about/about.css';
 @import '../blocks/about/__container/about__container.css';
 @import '../blocks/about/__title/about__title.css';
-/* Otium */
-@import '../blocks/otium/otium.css';
-@import '../blocks/otium/__title/otium__title.css';
-@import '../blocks/otium/__container/otium__container.css';
-@import '../blocks/otium/__text/otium__text.css';
-@import '../blocks/otium/__image/otium__image.css';
+/* sekai */
+@import '../blocks/sekai/sekai.css';
+@import '../blocks/sekai/__title/sekai__title.css';
+@import '../blocks/sekai/__container/sekai__container.css';
+@import '../blocks/sekai/__text/sekai__text.css';
+@import '../blocks/sekai/__image/sekai__image.css';
+@import '../blocks/sekai/__image/sekai__image2.css';
 /*Relaunch*/
 @import '../blocks/relaunch/relaunch.css';
 @import '../blocks/relaunch/__image/relaunch__image.css';

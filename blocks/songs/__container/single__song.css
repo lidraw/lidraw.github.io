@@ -1,0 +1,13 @@
+.single__song {
+    display: flex;
+    width: 1500px;
+    margin: 0 auto;
+    margin-top: 20px;
+  }
+
+@media screen and (max-width:1024px) {
+  .single__song {
+    width: 900px;
+    flex-direction: column;
+  }
+}

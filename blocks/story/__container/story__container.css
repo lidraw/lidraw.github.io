@@ -1,0 +1,13 @@
+.story__container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 480px;
+}
+
+@media screen and (max-width:1024px) {
+    .story__container{
+        width: 360px;
+    }
+}

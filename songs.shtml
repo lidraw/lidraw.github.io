@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SEKAI - топ!">
+  <meta name="keywords" content="Sekai">
+  <link rel="stylesheet" href="./pages/songs.css">
+  <title>Songs</title>
+</head>
+
+<body class="page">
+  
+  <!--#include file="header.html"-->
+
+  <div class="songs__container">
+    <div class="single__song">
+      <div class="songs__list">
+        <div class="song">
+          <img class="song-image" src="./images/songs/cover/sweetmagic.png" alt="Sweet Magic">
+          <div class="song-details">
+            <div class="song-title">Sweet Magic</div>
+            <div class="song-artist">Junky</div>
+          </div>
+          <div class="song-extra">
+            <span>Difficulty: 27 ||</span>
+            <span>BPM: 123 ||</span>
+            <span>MV: 3D/2D</span>
+            <audio controls>
+              <source src="./audio/Sweet_Magic.ogg" type="audio/ogg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+        </div>
+      </div>
+      <div class="song__info-wrapper">
+        <div class="song-info"> 
+          <h2>Versions (click to check)</h2>
+          <a href="#VSsweetmagic" class="button">Virtual Singer</a>
+          <a href="#Ssweetmagic" class="button">Sekai</a>
+        </div>
+        <div  class="song__versions-characters">
+          <div id = "VSsweetmagic" class ="pick">
+            <img src="./images/songs/circles/Rin-circle.webp">
+          </div>
+          <div id = "Ssweetmagic" class ="pick">
+            <img src="./images/songs/circles/Rin-circle.webp">
+            <img src="./images/songs/circles/Tsukasa-circle.webp">
+            <img src="./images/songs/circles/Nene-circle.webp">
+            <img src="./images/songs/circles/Rui-circle.webp">
+            <img src="./images/songs/circles/Emu-circle.webp">
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="single__song">
+        <div class="songs__list">
+          <div class="song">
+            <img class="song-image" src="./images/songs/cover/KING.webp" alt="KING">
+            <div class="song-details">
+              <div class="song-title">KING</div>
+              <div class="song-artist">Kanaria</div>
+            </div>
+            <div class="song-extra">
+              <span>Difficulty: 29 ||</span>
+              <span>BPM: 166 ||</span>
+              <span>MV: 2D</span>
+              <audio controls>
+                <source src="./audio/King.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
+        </div>
+        <div class="song__info-wrapper">
+          <div class="song-info"> 
+            <h2>Versions (click to check)</h2>
+            <a href="#VSking" class="button">Virtual Singer</a>
+            <a href="#Sking" class="button">Sekai</a>
+          </div>
+          <div  class="song__versions-characters">
+            <div id = "VSking" class ="pick">
+              <img src="./images/songs/circles/GUMI.webp">
+            </div>
+            <div id = "Sking" class ="pick">
+              <img src="./images/songs/circles/Tsukasa-circle.webp">
+              <img src="./images/songs/circles/Rui-circle.webp">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="single__song">
+        <div class="songs__list">
+          <div class="song">
+            <img class="song-image" src="./images/songs/cover/Kami.webp" alt="Kami no Manimani">
+            <div class="song-details">
+              <div class="song-title">Kami no Manimani</div>
+              <div class="song-artist">rerulili</div>
+            </div>
+            <div class="song-extra">
+              <span>Difficulty: 29 ||</span>
+              <span>BPM: 135 ||</span>
+              <span>MV: 3D</span>
+              <audio controls>
+                <source src="./audio/Kami.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
+        </div>
+        <div class="song__info-wrapper">
+          <div class="song-info"> 
+            <h2>Versions (click to check)</h2>
+            <a href="#VSkami" class="button">Virtual Singer</a>
+            <a href="#Skami" class="button">Sekai</a>
+          </div>
+          <div  class="song__versions-characters">
+            <div id = "VSkami" class ="pick">
+              <img src="./images/songs/circles/Rin-circle.webp">
+              <img src="./images/songs/circles/Miku-circle.webp">
+              <img src="./images/songs/circles/GUMI.webp">
+            </div>
+            <div id = "Skami" class ="pick">
+              <img src="./images/songs/circles/Miku-circle.webp">
+              <img src="./images/songs/circles/Tsukasa-circle.webp">
+              <img src="./images/songs/circles/Nene-circle.webp">
+              <img src="./images/songs/circles/Rui-circle.webp">
+              <img src="./images/songs/circles/Emu-circle.webp">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="single__song">
+        <div class="songs__list">
+          <div class="song">
+            <img class="song-image" src="./images/songs/cover/Okochama.webp" alt="Okochama Sensou">
+            <div class="song-details">
+              <div class="song-title">Okochama Sensou</div>
+              <div class="song-artist">Giga
+              </div>
+            </div>
+            <div class="song-extra">
+              <span>Difficulty: 30 ||</span>
+              <span>BPM: 175 ||</span>
+              <span>MV: 3D</span>
+              <audio controls>
+                <source src="./audio/Okochama.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
+        </div>
+        <div class="song__info-wrapper">
+          <div class="song-info"> 
+            <h2>Versions (click to check)</h2>
+            <a href="#VS-Okochama" class="button">Virtual Singer</a>
+            <a href="#S-Okochama" class="button">Sekai</a>
+          </div>
+          <div  class="song__versions-characters">
+            <div id = "VS-Okochama" class ="pick">
+              <img src="./images/songs/circles/Rin-circle.webp">
+              <img src="./images/songs/circles/Len-circle.webp">
+            </div>
+            <div id = "S-Okochama" class ="pick">
+              <img src="./images/songs/circles/Rin-circle.webp">
+              <img src="./images/songs/circles/Len-circle.webp">
+              <img src="./images/songs/circles/Tsukasa-circle.webp">
+              <img src="./images/songs/circles/Nene-circle.webp">
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+      <div class="single__song">
+        <div class="songs__list">
+          <div class="song">
+            <img class="song-image" src="./images/songs/cover/Alien.webp" alt="Alien Alien">
+            <div class="song-details">
+              <div class="song-title">Alien Alien</div>
+              <div class="song-artist">NayutalieN
+              </div>
+            </div>
+            <div class="song-extra">
+              <span>Difficulty: 29 ||</span>
+              <span>BPM: 152 ||</span>
+              <span>MV: None</span>
+              <audio controls>
+                <source src="./audio/Alien.ogg" type="audio/ogg">
+                Your browser does not support the audio element.
+              </audio>
+            </div>
+          </div>
+        </div>
+        <div class="song__info-wrapper">
+          <div class="song-info"> 
+            <h2>Versions (click to check)</h2>
+            <a href="#VS-Alien" class="button">Virtual Singer</a>
+            <a href="#S-Alien" class="button">Sekai</a>
+          </div>
+          <div  class="song__versions-characters">
+            <div id = "VS-Alien" class ="pick">
+              <img src="./images/songs/circles/Miku-circle.webp">
+            </div>
+            <div id = "S-Alien" class ="pick">
+              <img src="./images/songs/circles/Miku-circle.webp">
+              <img src="./images/songs/circles/Emu-circle.webp">
+              <img src="./images/songs/circles/Nene-circle.webp">
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+  </div>
+
+
+  <!--#include file="footer.shtml"-->
+  </body>
+</html>

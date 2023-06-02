@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="SEKAI - топ!">
+  <meta name="keywords" content="Sekai">
+  <link rel="stylesheet" href="./pages/gallery.css">
+  <title>Gallery</title>
+</head>
+
+  <!--#include file="header.html"-->
+
+  <div class ="gallery">
+    <div class="container gallery__container">
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-pink" src="/images/gallery/emu1_untrain.png" alt="emu untrain">
+        <div class="caption static-caption">You have sparkling eyes, don't you?☆</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-pink" src="/images/gallery/emu1_train.png" alt="emu trained">
+          <div class="caption hover-caption">Alright, let's go! Nene-chan☆</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-green" src="/images/gallery/nene1_untrain.png" alt="nene untrain">
+        <div class="caption static-caption">As a token of gratitude for the fun we had</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-green" src="/images/gallery/nene1_train.png" alt="nene trained">
+          <div class="caption hover-caption">Oh, thank you...</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-blue" src="/images/gallery/rui1_untrain.png" alt="rui untrain">
+        <div class="caption static-caption">Backstage Alchemist</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-blue" src="/images/gallery/rui1_train.png" alt="rui trained">
+          <div class="caption hover-caption">Leave that to me, Nene.</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-yellow" src="/images/gallery/tsu1_untrain.png" alt="tsukasa untrain">
+        <div class="caption static-caption">Star Melody</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-yellow" src="/images/gallery/tsu1_train.png" alt="tsukasa trained">
+          <div class="caption hover-caption">I have no choice but to keep playing.</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-pink" src="/images/gallery/emu2_untrain.png" alt="emu untrain">
+        <div class="caption static-caption">Fishing before the storm</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-pink" src="/images/gallery/emu2_train.png" alt="emu trained">
+          <div class="caption hover-caption">Ah! Backing up, backing up!☆</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-green" src="/images/gallery/nene2_untrain.png" alt="nene untrain">
+        <div class="caption static-caption">A visitor who is shy around people</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-green" src="/images/gallery/nene2_train.png" alt="nene trained">
+          <div class="caption hover-caption">Nice to meet you... Please take care of me.</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-blue" src="/images/gallery/rui2_untrain.png" alt="rui untrain">
+        <div class="caption static-caption">I'm always here to listen and offer advice</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-blue" src="/images/gallery/rui2_train.png" alt="rui trained">
+          <div class="caption hover-caption">It's showtime!</div>
+        </div>
+      </div>
+      <div class="gallery-item">
+        <img class="border-gradient border-gradient-yellow" src="/images/gallery/tsu2_untrain.png" alt="tsukasa untrain">
+        <div class="caption static-caption">An Emergency Meeting?!</div>
+        <div class="image-overlay">
+          <img class="border-gradient border-gradient-yellow" src="/images/gallery/tsu2_train.png" alt="tsukasa trained">
+          <div class="caption hover-caption">Looks like I have no choice but to help out!</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!--#include file="footer.shtml"-->
+  </body>
+</html>
