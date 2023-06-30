@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ru">
+<html lang="en">
 
 <head>
   <meta charset="UTF-8">
@@ -14,6 +14,7 @@
 <body class="page">
   
   <!--#include file="header.html"-->
+
 
   <div class="songs__container">
     <div class="single__song">
@@ -220,5 +221,7 @@
 
 
   <!--#include file="footer.shtml"-->
+
+
   </body>
 </html>

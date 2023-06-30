@@ -62,3 +62,5 @@
 @import '../blocks/footer/__container/footer__container.css';
 @import '../blocks/footer/__author/footer__author.css';
 @import '../blocks/footer/__copyright/footer__copyright.css';
+/* Print */
+@import '../blocks/print.css';

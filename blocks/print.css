@@ -1,0 +1,54 @@
+@media print {
+    .no-print { 
+        display: none;
+    }
+
+    * { 
+        background:#FFF !important; 
+        color:#000 !important;
+    }
+
+    @page { 
+        margin: 1cm;
+    }
+
+    img { 
+        max-width: 100% !important;
+    }
+
+    .container{
+        width: 900px;
+    }
+
+    .brief__container{
+        width: 320px;
+    }
+
+    .story__container .button{
+        width: 300px;
+    }
+
+    .message{
+        width: 450px;
+    }
+
+    .single__song {
+        width: 900px;
+        flex-direction: column;
+    }
+
+    .songs__list{
+        width: 100%;
+    }
+
+    .song{
+        border-radius: 15px 15px 0 0;
+        border: 2px solid #da99a4;
+    }
+
+    .song__info-wrapper{
+        border: 2px solid #da99a4;
+        border-radius: 0 0 18px 18px;
+        border-top: none;
+    }
+}

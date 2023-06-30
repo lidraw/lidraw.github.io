@@ -32,7 +32,7 @@
 /* List */
 @import '../blocks/list/list.css';
 /* Story */
-@import '../blocks/story/__header/story__header.css';
+@import '../blocks/gallery/__header/gallery__header.css';
 @import '../blocks/story/story.css';
 @import '../blocks/story/__wrapper/story__wrapper.css';
 /* Container */
@@ -56,3 +56,5 @@
 @import '../blocks/footer/__container/footer__container.css';
 @import '../blocks/footer/__author/footer__author.css';
 @import '../blocks/footer/__copyright/footer__copyright.css';
+/* Print */
+@import '../blocks/print.css';

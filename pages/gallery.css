@@ -35,7 +35,7 @@
 @import '../blocks/gallery/gallery.css';
 @import '../blocks/gallery/__container/gallery__container.css';
 @import '../blocks/gallery/__header/gallery__header.css';
-@import '../blocks/gallery/gallery-item.css';
+@import '../blocks/gallery/__item/gallery-item.css';
 /* Container */
 @import '../blocks/container/container.css';
 @import '../blocks/gallery/__container/gallery__container.css';
@@ -54,3 +54,5 @@
 @import '../blocks/footer/__container/footer__container.css';
 @import '../blocks/footer/__author/footer__author.css';
 @import '../blocks/footer/__copyright/footer__copyright.css';
+/* Print */
+@import '../blocks/print.css';
